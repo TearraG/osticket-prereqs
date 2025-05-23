@@ -32,6 +32,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![practice resize](https://github.com/user-attachments/assets/c09f3b28-7d8a-44c6-abdb-3db65c960bc9)
 
+First, I created a virtual machine (VM) in Microsoft Azure. I used OS Windows and made sure to create a username and password for this VM.
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
