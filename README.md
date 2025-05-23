@@ -29,8 +29,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="file:///Users/tearragunter/Pictures/Photos%20Library.photoslibrary/private/com.apple.Photos/ExternalEditSessions/4A9F1E58-12CC-4B63-8B5E-523F68DA7907/Image%205-23-25%20at%206.32%E2%80%AFPM.jpeg" width="150" height="99">
-</p>
 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
