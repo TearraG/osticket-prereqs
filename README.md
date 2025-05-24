@@ -47,14 +47,11 @@ Next, I downloaded the Windows App in the Apple Store. Once installed, I clicked
 After logging into the VM, I downloaded osTicket Installation Zip Files and unzipped them onto my Windows desktop. I then went to the Windows Control Panel and clicked on "Uninstall a Program" under the Programs tab. Next, I clicked on "Turn Windows Features On or Off". Then I made sure that the following boxes were checked: Internet Explorer 11, Internet Information Services (IIS), World Wide Web Services, Application Development Features, and CGI.
 
 
-</p>
-<br />
+![osticket photo 4](https://github.com/user-attachments/assets/ace53965-226b-41ff-ae76-a10baaaeae71)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
+
+Next, I double clicked the osTicket folder on Desktop then installed PHP Manager, which is the background web server osTicket uses to run. I then installed the Rewrite Module within the folder. After that, I created an Active Directory on the C: drive of the computer named PHP. Next, I extracted the php language files into the PHP folder on the C: drive. Then, I 
 
 
 
