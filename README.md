@@ -40,8 +40,9 @@ First, I created a virtual machine (VM) in Microsoft Azure and named it "osTicke
 
 Next, I downloaded the Windows App in the Apple Store. Once installed, I clicked the upper right corner and clicked, "Add A PC". I went back to Miscosoft Azure and copied the public IP address of the "osTicket" VM and pasted it into the IP address bar on the Windows App. Once the PC was added, I double clicked it and I used the same username and password I used to set up the VM and logged into virtual Windows PC. 
 
-![osticket photo 3](https://github.com/user-attachments/assets/95c704a9-46e9-4446-b83f-309320a0b303)
 
+
+![osticket photo 3](https://github.com/user-attachments/assets/95c704a9-46e9-4446-b83f-309320a0b303)
 
 
 After logging into the VM, I downloaded osTicket Installation Zip Files and unzipped them onto my Windows desktop. I then went to the Windows Control Panel and clicked on "Uninstall a Program" under the Programs tab. Next, I clicked on "Turn Windows Features On or Off". Then I made sure that the following boxes were checked: Internet Explorer 11, Internet Information Services (IIS), World Wide Web Services, Application Development Features, and CGI.
@@ -58,7 +59,12 @@ Next, I double clicked the osTicket folder on Desktop then installed PHP Manager
 
 
 
-Once this was done, I ran IIS as an admin and registered PHP with it.
+Once this was done, I ran IIS as an admin and registered PHP within it.
+
+
+
+![osTicket photo 6](https://github.com/user-attachments/assets/c96a01f4-6346-45f0-a0bd-85234e8484b3)
+
 
 
 
