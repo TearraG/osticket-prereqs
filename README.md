@@ -59,14 +59,14 @@ Next, I double clicked the osTicket folder on Desktop then installed PHP Manager
 
 
 
-Once this was done, I ran IIS as an admin and registered PHP within it. Next, I copied the "upload" folder from the "OS Ticket Files" zip files, pasted it into the wwwroot folder and renamed it osTicket. I reloaded the IIS, clicked on "sites", then "default", then "osTicket". On the right hand side of the ISS, I then clicked "Browse :80". The OsTicket site loaded on the screen. Next, I enabled the required extensions. I went back to the osTicket "include" folder and renamed the "ost-sampleconfig.php" file to "ost-config.php". After that, I assigned permissions to the "ost-config.php", disabling inheritence, and setting new permissions to "Everyone".  
+Once this was done, I ran IIS as an admin and registered PHP within it. Next, I copied the "upload" folder from the "OS Ticket Files" zip files, pasted it into the "wwwroot" folder and renamed it "osTicket". I reloaded the IIS, clicked on "sites", then "default", then "osTicket". On the right hand side of the IIS, I then clicked "Browse :80". The OsTicket site then appeared on the screen. Next, I enabled the required extensions. Next, I went back to the osTicket "include" folder and renamed the "ost-sampleconfig.php" file to "ost-config.php". After that, I assigned permissions to the "ost-config.php", disabling inheritence, and setting new permissions to "Everyone".  
 
 
 
 ![osTicket photo 6](https://github.com/user-attachments/assets/c96a01f4-6346-45f0-a0bd-85234e8484b3)
 
 
-Lastly, once that was done, I finished setting up osTicket in the browser by installing "HeidiSQL" Database from the osTicket installation files and created a new session with the username "root" and password "root". Then, I was able to finish the osTicket browser set up by inputting the Database name "osTicket" and the same username "root" and password "root." I clicked "install" and was finished.
+Once that was done, I finished setting up osTicket in the browser by installing "HeidiSQL" Database from the osTicket installation files and created a new session with the username "root" and password "root" just like I did with the "MySQL" install. Then, I was able to finish the osTicket browser set up by inputting the Database name "osTicket" and using the same username "root" and password "root." I clicked "install" and was finished.
 
 
 
