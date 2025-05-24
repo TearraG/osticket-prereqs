@@ -38,9 +38,8 @@ First, I created a virtual machine (VM) in Microsoft Azure and named it "osTicke
 
 ![osticket photo 2](https://github.com/user-attachments/assets/05e3095c-6772-4742-a742-d2c95bdf53ec)
 
+Next, I downloaded the Windows App in the Apple Store. Once installed, I clicked the upper right corner and clicked, "Add A PC". I went back to Miscosoft Azure and copied the public IP address of the "osTicket" VM and pasted it into the Ip address bar on the Windows App. Once the PC was added, I double clicked it and I used the same username and password I used to set up the VM and logged into virtual Windows pc. 
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 
 
