@@ -40,7 +40,7 @@ First, I created a virtual machine (VM) in Microsoft Azure and named it "osTicke
 
 Next, I downloaded the Windows App in the Apple Store. Once installed, I clicked the upper right corner and clicked, "Add A PC". I went back to Miscosoft Azure and copied the public IP address of the "osTicket" VM and pasted it into the IP address bar on the Windows App. Once the PC was added, I double clicked it and I used the same username and password I used to set up the VM and logged into virtual Windows PC. 
 
-<p![osticket photo 3](https://github.com/user-attachments/assets/95c704a9-46e9-4446-b83f-309320a0b303)
+![osticket photo 3](https://github.com/user-attachments/assets/95c704a9-46e9-4446-b83f-309320a0b303)
 
 
 
