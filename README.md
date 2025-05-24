@@ -42,7 +42,7 @@ Next, I downloaded the Windows App in the Apple Store. Once installed, I clicked
 
 <p>
 
-
+After logging into the VM, I downloaded osTicket Installation Zip Files and unzipped them onto my Windows desktop. I then went to the Windows Control Panel and clicked on "Uninstall a Program" under the Programs tab. Next, I clicked on "Turn Windows Features On or Off". Then I made sure that the following boxes were checked: Internet Explorer 11, Internet Information Services (IIS), World Wide Web Services, Application Development Features, and CGI.
 
 
 </p>
