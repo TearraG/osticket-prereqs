@@ -32,7 +32,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![practice resize](https://github.com/user-attachments/assets/c09f3b28-7d8a-44c6-abdb-3db65c960bc9)
 
-First, I created a virtual machine (VM) in Microsoft Azure. I used OS Windows and made sure to create a username and password for this VM.
+First, I created a virtual machine (VM) in Microsoft Azure and named it "osTicket". I used OS Windows 10, 4 vCPUs and made sure to create a username and password for this VM. I set the VM to RDP 3389 so that I can use it to access the Windows machine remotely from my laptop. 
+
+
+
+![osticket photo 2](https://github.com/user-attachments/assets/05e3095c-6772-4742-a742-d2c95bdf53ec)
+
 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
