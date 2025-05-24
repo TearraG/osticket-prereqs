@@ -54,15 +54,11 @@ After logging into the VM, I downloaded osTicket Installation Zip Files and unzi
 Next, I double clicked the osTicket folder on Desktop then installed PHP Manager, which is the background web server osTicket uses to run. I then installed the Rewrite Module within the folder. After that, I created an Active Directory on the C: drive of the computer named PHP. Next, I extracted the PHP language files into the PHP folder on the C: drive. Then, I installed the VC Redist File. Next, I installed the MySQL 5.5.62 file, which is the database that OsTicket uses to store it's data including user accounts, ticketing information, etc. 
 
 
+![osTicket photo 5](https://github.com/user-attachments/assets/0b1739d7-b74b-4a70-821b-46aedc972c88)
 
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
+Once this was done, I ran IIS as an admin and registered PHP with it.
 
 
 
