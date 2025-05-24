@@ -59,7 +59,7 @@ Next, I double clicked the osTicket folder on Desktop then installed PHP Manager
 
 
 
-Once this was done, I ran IIS as an admin and registered PHP within it.
+Once this was done, I ran IIS as an admin and registered PHP within it. Next, I copied the "upload" folder from the "OS Ticket Files" zip files, pasted it into the wwwroot folder and renamed it osTicket.
 
 
 
